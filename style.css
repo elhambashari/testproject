@@ -1,0 +1,54 @@
+section{
+	background-color: rgb(201, 241, 241);
+	width: 80em;
+	height: 45em;
+	
+}
+.head{
+	width: 80em;
+	height: 8em;
+	background-color: rgb(35, 136, 136);
+	color: white;
+	
+}
+.navi{
+	display: flex;
+}
+
+nav > p {
+	padding: 15px;
+	margin: 10px;
+	font-size: 24px;
+	
+	
+}
+a:hover nav p{
+	color: rgb(41, 12, 12);
+}
+main{
+	height:23em ;
+}
+
+h1{
+	margin: 14px;
+}
+
+
+
+footer{
+	background-color:rgb(16, 66, 66);
+	color: white;
+	width: 80em;
+	height: 14em;
+}
+.last{
+	width: 6em;
+	height: 3em;
+	background-color: red;
+	color: white;
+	border-radius: 5px;
+	position: fixed;
+	text-align: center;
+	margin-bottom: 25px;
+	margin-right: 10px;
+}
