@@ -23,7 +23,7 @@ nav > p {
 	
 }
 a:hover nav p{
-	color: black;
+	color: rgb(41, 12, 12);
 }
 main{
 	height:23em ;
